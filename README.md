@@ -1,6 +1,6 @@
 # Hi — I’m LaVesta Martin 👋 (lmartin912)
 
-> Cybersecurity student • Aspiring InfoSec analyst • Building practical projects and a strong GitHub portfolio
+> Cybersecurity student • Threat Intelligence Analyst • Building practical projects and a strong GitHub portfolio
 
 ---
 
@@ -8,7 +8,7 @@
 - Name: **LaVesta Martin**  
 - GitHub: `@lmartin912`  
 - Current focus: learning hands-on cybersecurity through projects (Beginner → Intermediate → Advanced)  
-- Education: pursuing a degree in Cybersecurity / Information Technology  
+- Education: Bachelor's degree in Criminal Justice: Crime Scene Investigation;pursuing a degree in Cybersecurity / Information Technology  
 - Interests: network security, Linux, OSINT, home labs, automation, Python scripting
 
 ---
