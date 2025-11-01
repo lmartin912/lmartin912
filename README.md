@@ -12,8 +12,9 @@
 - Interests: network security, Linux, OSINT, home labs, automation, Python scripting
 
 ---
-![banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
----
+[
+](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
+)---
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Bash](https://img.shields.io/badge/Bash-shell-%23000)
 ![Kali](https://img.shields.io/badge/Kali-Linux-green)
@@ -48,7 +49,6 @@
 ## 📫 How to reach me
 - Email: (lavesta214@gmail.com)  
 - LinkedIn: (www.linkedin.com/in/ljmartin1000)  
-*(Remove or change any contact details you don’t want public.)*
 
 ---
 
