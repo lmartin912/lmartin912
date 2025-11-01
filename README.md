@@ -1,6 +1,6 @@
 # Hi — I’m LaVesta Martin 👋 (lmartin912)
 
-> Cybersecurity student • Threat Intelligence Analyst • Building practical projects and a strong GitHub portfolio
+> Cybersecurity student • Security Data Analyst • Building practical projects and a strong GitHub portfolio
 
 ---
 
